@@ -9,8 +9,7 @@
 7. ./manage.py search_index --rebuild
 8. ./manage.py runsever
 
-Populating news from newsapi.org on localhost:8000
-Log for locahost:8000/admin for checking news
+Populating news from newsapi.org on localhost:8000. Log for locahost:8000/admin for checking news
 
 And finally you can get information on JSON e.g. for Spotify: http://localhost:8000/search/?search=Spotify
 
